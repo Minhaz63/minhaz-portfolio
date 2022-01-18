@@ -1,3 +1,9 @@
 body{
     font-family: 'Roboto Mono', monospace;
 }
+h1{
+    font-size: 40px;
+}
+.orange-color{
+    color: orange;
+}
