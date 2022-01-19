@@ -1,8 +1,10 @@
 body{
     font-family: 'Roboto Mono', monospace;
+    margin: 0%;
+    
 }
 h1{
-    font-size: 45px;
+    font-size: 50px;
 }
 .orange-color{
     color: orange;
@@ -24,4 +26,9 @@ section{
     color: white;
     font-weight: 700;
     border-radius: 5px;
+}
+.top-banner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+    
 }
