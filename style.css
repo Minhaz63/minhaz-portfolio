@@ -40,3 +40,31 @@ section{
     background-repeat: no-repeat;
     background-position: right;
 }
+h2{
+    font-size: 40px;
+}
+
+.new-shadowing{
+    width: 45%;
+    margin-left: 3%;
+    margin-right: 3%;
+    padding-left: 10px;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    box-shadow: 10px 10px 40px gray;
+}
+
+.down-pic{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+#web-exp{
+    border-image-slice: 1;
+    border-left: 7px solid;
+    border-image: linear-gradient(orange, tomato) 30;}
+#web-dev{
+    border-image-slice: 1;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, #4d9f0c) 30;
+}
