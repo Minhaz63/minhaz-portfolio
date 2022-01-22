@@ -8,9 +8,11 @@ h1{
 }
 .orange-color{
     color: orange;
+    
 }
 section{
     display: flex;
+    margin-bottom: 200px;
 }
 .half-width{
     width: 50%;
